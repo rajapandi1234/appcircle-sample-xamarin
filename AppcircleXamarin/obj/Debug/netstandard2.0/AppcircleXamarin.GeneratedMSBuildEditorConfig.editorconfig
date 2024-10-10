@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = AppcircleXamarin
+build_property.ProjectDir = /Users/burakyildirim/Repository/appcircle-sample-xamarin/AppcircleXamarin/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

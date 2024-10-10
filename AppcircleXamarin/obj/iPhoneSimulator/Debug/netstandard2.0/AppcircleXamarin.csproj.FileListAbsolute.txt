@@ -1,0 +1,14 @@
+/Users/burakyildirim/Repository/xamarin-sample/AppcircleXamarin/AppcircleXamarin/bin/iPhoneSimulator/Debug/netstandard2.0/AppcircleXamarin.deps.json
+/Users/burakyildirim/Repository/xamarin-sample/AppcircleXamarin/AppcircleXamarin/bin/iPhoneSimulator/Debug/netstandard2.0/AppcircleXamarin.dll
+/Users/burakyildirim/Repository/xamarin-sample/AppcircleXamarin/AppcircleXamarin/bin/iPhoneSimulator/Debug/netstandard2.0/ref/AppcircleXamarin.dll
+/Users/burakyildirim/Repository/xamarin-sample/AppcircleXamarin/AppcircleXamarin/bin/iPhoneSimulator/Debug/netstandard2.0/AppcircleXamarin.pdb
+/Users/burakyildirim/Repository/xamarin-sample/AppcircleXamarin/AppcircleXamarin/obj/iPhoneSimulator/Debug/netstandard2.0/AppcircleXamarin.csproj.AssemblyReference.cache
+/Users/burakyildirim/Repository/xamarin-sample/AppcircleXamarin/AppcircleXamarin/obj/iPhoneSimulator/Debug/netstandard2.0/App.xaml.g.cs
+/Users/burakyildirim/Repository/xamarin-sample/AppcircleXamarin/AppcircleXamarin/obj/iPhoneSimulator/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/burakyildirim/Repository/xamarin-sample/AppcircleXamarin/AppcircleXamarin/obj/iPhoneSimulator/Debug/netstandard2.0/AppcircleXamarin.AssemblyInfoInputs.cache
+/Users/burakyildirim/Repository/xamarin-sample/AppcircleXamarin/AppcircleXamarin/obj/iPhoneSimulator/Debug/netstandard2.0/AppcircleXamarin.AssemblyInfo.cs
+/Users/burakyildirim/Repository/xamarin-sample/AppcircleXamarin/AppcircleXamarin/obj/iPhoneSimulator/Debug/netstandard2.0/AppcircleXamarin.csproj.CoreCompileInputs.cache
+/Users/burakyildirim/Repository/xamarin-sample/AppcircleXamarin/AppcircleXamarin/obj/iPhoneSimulator/Debug/netstandard2.0/XamlC.stamp
+/Users/burakyildirim/Repository/xamarin-sample/AppcircleXamarin/AppcircleXamarin/obj/iPhoneSimulator/Debug/netstandard2.0/AppcircleXamarin.dll
+/Users/burakyildirim/Repository/xamarin-sample/AppcircleXamarin/AppcircleXamarin/obj/iPhoneSimulator/Debug/netstandard2.0/ref/AppcircleXamarin.dll
+/Users/burakyildirim/Repository/xamarin-sample/AppcircleXamarin/AppcircleXamarin/obj/iPhoneSimulator/Debug/netstandard2.0/AppcircleXamarin.pdb
