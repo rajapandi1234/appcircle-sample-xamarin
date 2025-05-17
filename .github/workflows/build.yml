@@ -1,0 +1,37 @@
+name: Build Xamarin Android APK (Unsigned)
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: macos-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up .NET
+        uses: actions/setup-dotnet@v3
+        with:
+          dotnet-version: '7.0.x'  # Adjust to match your Xamarin SDK version
+
+      - name: Install Mono
+        run: brew install mono
+
+      - name: Restore NuGet packages
+        run: nuget restore AppcircleXamarin.sln
+
+      - name: Build APK (unsigned)
+        run: |
+          msbuild AppcircleXamarin.Android/AppcircleXamarin.Android.csproj /p:Configuration=Release /p:Platform="AnyCPU"
+
+      - name: Upload APK as Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: android-apk
+          path: |
+            AppcircleXamarin.Android/bin/Release/*.apk
